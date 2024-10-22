@@ -1,15 +1,17 @@
 # OpenPoiesis
 
-Collection of libraries, tools, toys and models for systems thinking, modelling and simulation.
+_Building Blocks of a Virtual Laboratory for Systems Thinking_
 
-Still being prototyped.
+Collection of libraries, tools, toys and models for for modelling, simulation and reasoning.
+
+Still being prototyped and discovered.
 
 # Projects
 
-- [PoieticTool](https://github.com/OpenPoiesis/PoieticTool): Command-line tool for editing and running Poietic models.
-- [PoieticFlows](https://github.com/OpenPoiesis/PoieticFlows): Swift package for [Stock and Flow](https://en.wikipedia.org/wiki/Stock_and_flow) domain model and simulator
-- [PoieticCore](https://github.com/OpenPoiesis/PoieticCore): Swift package for iterative design of systems models.
-- [PoieticServer](https://github.com/OpenPoiesis/PoieticServer) – Makeshift localhost simulation server for running the _PoieticFlows_ models.
+- [Poietic Tool](https://github.com/OpenPoiesis/poietic-tool): Command-line tool for editing and running Poietic models.
+- [Poietic Flows](https://github.com/OpenPoiesis/poietic-flows): Swift package for [Stock and Flow](https://en.wikipedia.org/wiki/Stock_and_flow) domain model and simulator
+- [Poietic Core](https://github.com/OpenPoiesis/poietic-core): Swift package for iterative design of systems models.
+- [Poietic Server](https://github.com/OpenPoiesis/poietic-server) – Makeshift localhost simulation server for running the _PoieticFlows_ models.
 
 # Authors
 
